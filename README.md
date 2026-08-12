@@ -65,10 +65,10 @@ Currently, I'm focusing on developing my skills in **SQL, Python, data visualiza
 
 | Project | Description |
 |---|---|
-| 🗄️ **[Equipment Management System](YOUR_EQUIPMENT_PROJECT_LINK)** | Equipment management system focusing on database design and business logic. |
-| 🏪 **[CuaHang](YOUR_CUAHANG_PROJECT_LINK)** | Store management system using Oracle and PL/SQL. |
-| 🧬 **[GA-TaSRM](YOUR_GA_TASRM_PROJECT_LINK)** | Data mining project applying Genetic Algorithm to sequential rule mining. |
-| ⛓️ **[Blockchain Library DApp](YOUR_BLOCKCHAIN_PROJECT_LINK)** | A small DApp developed to explore Blockchain and Web3. |
+| 🗄️ **[Equipment Management System]([YOUR_EQUIPMENT_PROJECT_LINK](https://github.com/TuyetAnh0101/Equipment-Management-System))** | Equipment management system focusing on database design and business logic. |
+| 🏪 **[CuaHang]([YOUR_CUAHANG_PROJECT_LINK](https://github.com/TuyetAnh0101/CuaHang))** | Store management system using Oracle and PL/SQL. |
+| 🧬 **[GA-TaSRM]([YOUR_GA_TASRM_PROJECT_LINK](https://github.com/TuyetAnh0101/GA-TaSRM))** | Data mining project applying Genetic Algorithm to sequential rule mining. |
+| ⛓️ **[Blockchain Library DApp]([YOUR_BLOCKCHAIN_PROJECT_LINK](https://github.com/TuyetAnh0101/Blockchain-Library-DApp))** | A small DApp developed to explore Blockchain and Web3. |
 
 <p align="center">
   <a href="https://github.com/TuyetAnh0101?tab=repositories">
