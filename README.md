@@ -1,23 +1,101 @@
 <h1 align="center">Hi 👋, I'm Tuyết Anh</h1>
-<h3 align="center">Final-year IT student exploring Data Analytics</h3>
 
-- 🔭 I’m currently working on **Academic & Personal Projects**
+<h3 align="center">
+  Final-year Information Technology student exploring Data Analytics
+</h3>
 
-- 🌱 I’m currently learning **Power BI • Tableau • Advanced SQL • Statistics**
-
-- 🤝 I’m looking for help with **Currently learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TuyetAnh0101](https://github.com/TuyetAnh0101)
-
-- 💬 Ask me about **SQL • Database • PL/SQL • Data Mining**
-
-- 📫 How to reach me **anhngo01012005@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into working projects.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/TuyetAnh0101">
+    <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anhngo01012005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### 👩‍💻 About Me
+
+I'm a **final-year Information Technology student** with a strong interest in **Data Analytics and Databases**.
+
+Throughout my studies, I've worked on projects involving **database systems, software development, data mining, and blockchain**. These experiences have helped me understand how data is structured, stored, processed, and used in real-world applications.
+
+Currently, I'm focusing on developing my skills in **SQL, Python, data visualization, and statistics** as I explore a career in Data Analytics.
+
+---
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-4B8BBE?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Technologies
+
+**Data & Analytics**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35" height="35" alt="Jupyter"/>
+</p>
+
+**Database & Development**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35" height="35" alt="Oracle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="35" height="35" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
+</p>
+
+---
+
+### 📌 Selected Projects
+
+| Project | Description |
+|---|---|
+| 🗄️ **[Equipment Management System](YOUR_EQUIPMENT_PROJECT_LINK)** | Equipment management system focusing on database design and business logic. |
+| 🏪 **[CuaHang](YOUR_CUAHANG_PROJECT_LINK)** | Store management system using Oracle and PL/SQL. |
+| 🧬 **[GA-TaSRM](YOUR_GA_TASRM_PROJECT_LINK)** | Data mining project applying Genetic Algorithm to sequential rule mining. |
+| ⛓️ **[Blockchain Library DApp](YOUR_BLOCKCHAIN_PROJECT_LINK)** | A small DApp developed to explore Blockchain and Web3. |
+
+<p align="center">
+  <a href="https://github.com/TuyetAnh0101?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯 Career Direction
+
+**Aspiring Data Analyst**
+
+Interested in turning data into meaningful insights through **SQL, Python, visualization, and statistical analysis**, while leveraging a strong foundation in databases and software development.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/TuyetAnh0101">
+    <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anhngo01012005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anhngo01012005%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
