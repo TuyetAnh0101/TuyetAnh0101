@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Tuyết Anh</h1>
 
-<h3>Final-year IT Student | Exploring Data Analytics</h3>
+<h3>Final-year Information Technology Student | Exploring Software, Data & Technology</h3>
 
 <p>
   <a href="https://github.com/TuyetAnh0101">
@@ -19,15 +19,27 @@
 
 ## About Me
 
-I'm a final-year Information Technology student who has worked on projects across database systems, software development, data mining, and blockchain during my studies.
+I'm a final-year Information Technology student with experience in database systems, software development, data mining, and blockchain through academic and personal projects.
 
-Those projects made me realize what I enjoy most is working with data, how it's structured, processed, and turned into decisions. That's why I'm now focused on building a career in Data Analytics, sharpening my SQL, Python, and data visualization skills along the way.
+Through these projects, I've developed an interest in understanding how software systems are designed, how data is stored and processed, and how technology can be applied to solve practical problems.
+
+Currently, I'm continuing to strengthen my skills in programming, databases, SQL, Python, and data visualization while exploring different career opportunities in Information Technology.
 
 ```text
 const tuyetAnh = {
   role: "Final-year IT Student",
-  focus: "Data Analytics & Databases",
-  currentlyLearning: ["Advanced SQL", "Power BI", "Tableau", "Statistics"]
+  interests: [
+    "Software Development",
+    "Databases",
+    "Data & Analytics",
+    "Emerging Technologies"
+  ],
+  currentlyLearning: [
+    "Advanced SQL",
+    "Power BI",
+    "Tableau",
+    "Statistics"
+  ]
 };
 ```
 
@@ -38,34 +50,36 @@ const tuyetAnh = {
 ### Data & Analytics
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
 ### Database & Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## Selected Projects
 
-| Project                                                                                    | Description                                                                      | Stack                               |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------------------------- |
-| [Restudy - Used Books & Tutor Platform](https://github.com/TuyetAnh0101/Website)           | Web app for buying and renting used books, with tutor search and rental features | ASP.NET Core · EF Core · SQL Server |
-| [Equipment Management System](https://github.com/TuyetAnh0101/Equipment-Management-System) | Equipment management system focused on database design and business logic        | Oracle                              |
-| [CuaHang](https://github.com/TuyetAnh0101/CuaHang)                                         | Store management system built on Oracle                                          | Oracle · PL/SQL                     |
-| [GA-TaSRM](https://github.com/TuyetAnh0101/GA-TaSRM)                                       | Data mining project applying a Genetic Algorithm to sequential rule mining       | Python                              |
-| [Blockchain Library DApp](https://github.com/TuyetAnh0101/Blockchain-Library-DApp)         | Small DApp built to explore Blockchain and Web3                                  | Solidity                            |
+| Project                                                                                    | Description                                                                              | Stack                               |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Restudy - Used Books & Tutor Platform](https://github.com/TuyetAnh0101/Website)           | Web application for buying and renting used books, with tutor search and rental features | ASP.NET Core · EF Core · SQL Server |
+| [Equipment Management System](https://github.com/TuyetAnh0101/Equipment-Management-System) | Equipment management system focused on database design and business logic                | Oracle                              |
+| [CuaHang](https://github.com/TuyetAnh0101/CuaHang)                                         | Store management system built on Oracle                                                  | Oracle · PL/SQL                     |
+| [GA-TaSRM](https://github.com/TuyetAnh0101/GA-TaSRM)                                       | Data mining project applying a Genetic Algorithm to sequential rule mining               | Python                              |
+| [Blockchain Library DApp](https://github.com/TuyetAnh0101/Blockchain-Library-DApp)         | Small DApp built to explore Blockchain and Web3                                          | Solidity                            |
 
 <p align="center">
   <a href="https://github.com/TuyetAnh0101?tab=repositories">
@@ -77,9 +91,9 @@ const tuyetAnh = {
 
 ## Career Direction
 
-**Aspiring Data Analyst**
+Interested in building a career in Information Technology while continuing to explore different areas including software development, databases, data, and emerging technologies.
 
-Building on a solid foundation in databases and software development, now moving toward turning data into meaningful insights through SQL, Python, visualization, and statistical analysis.
+With a foundation in programming and database systems, I'm open to opportunities where I can apply my technical skills, learn from real-world projects, and continue developing professionally.
 
 ---
 
