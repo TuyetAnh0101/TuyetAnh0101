@@ -25,25 +25,6 @@ Through these projects, I've developed an interest in understanding how software
 
 Currently, I'm continuing to strengthen my skills in programming, databases, SQL, Python, and data visualization while exploring different career opportunities in Information Technology.
 
-```text
-const tuyetAnh = {
-  role: "Final-year IT Student",
-  interests: [
-    "Software Development",
-    "Databases",
-    "Data & Analytics",
-    "Emerging Technologies"
-  ],
-  currentlyLearning: [
-    "Advanced SQL",
-    "Power BI",
-    "Tableau",
-    "Statistics"
-  ]
-};
-```
-
----
 
 ## Tech Stack
 
