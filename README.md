@@ -1,96 +1,34 @@
-<h1 align="center">Hi 👋, I'm Tuyết Anh</h1>
+<h1 align="center">Ngô Tuyết Anh</h1> <h3 align="center">Sinh viên IT năm cuối — đang theo hướng Data Analytics</h3> <p align="center"> <a href="https://github.com/TuyetAnh0101">GitHub</a> · <a href="mailto:anhngo01012005@gmail.com">Email</a> </p>
+Về mình
 
-<h3 align="center">
-  Final-year Information Technology student exploring Data Analytics
-</h3>
+Mình là sinh viên Công nghệ thông tin năm cuối, đã làm qua vài dự án về cơ sở dữ liệu, phát triển phần mềm, khai phá dữ liệu và blockchain trong quá trình học.
 
-<p align="center">
-  <a href="https://github.com/TuyetAnh0101">
-    <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github" />
-  </a>
-  <a href="mailto:anhngo01012005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Từ những dự án đó, mình nhận ra mảng mình thích nhất là làm việc với dữ liệu — cách dữ liệu được tổ chức, xử lý và dùng để đưa ra quyết định. Vì vậy hiện tại mình đang tập trung học SQL, Python và các công cụ trực quan hóa dữ liệu để chuyển hướng sang Data Analytics.
 
----
+Đang học
+SQL nâng cao (window functions, tối ưu query)
+Power BI / Tableau để trực quan hóa dữ liệu
+Thống kê ứng dụng cho phân tích dữ liệu
+Công cụ hay dùng
 
-### 👩‍💻 About Me
+Xử lý & phân tích dữ liệu: Python, Pandas, Jupyter Notebook
 
-I'm a final-year Information Technology student with an interest in **Data Analytics** and **Databases**.
+Database & phát triển phần mềm: PostgreSQL, Oracle (PL/SQL), Java, ASP.NET Core, Git
 
-Throughout my studies, I've worked on projects involving database systems, software development, data mining, and blockchain. These experiences have helped me understand how data is structured, stored, processed, and applied in real-world applications.
+Một số dự án
+Dự án	Mô tả
+Restudy — Nền tảng mua/thuê sách cũ	Web app mua/thuê sách cũ, có tìm gia sư. Xây bằng ASP.NET Core, Entity Framework Core, SQL Server.
+Equipment Management System	Hệ thống quản lý thiết bị, tập trung vào thiết kế CSDL và business logic.
+CuaHang	Hệ thống quản lý cửa hàng dùng Oracle và PL/SQL.
+GA-TaSRM	Đồ án khai phá dữ liệu, áp dụng Giải thuật di truyền cho bài toán sequential rule mining.
+Blockchain Library DApp	DApp nhỏ để tìm hiểu Blockchain và Web3.
 
-Currently, I'm developing my skills in **SQL, Python, data visualization, and statistics** while exploring a career in Data Analytics.
+Xem thêm tại danh sách repository.
 
----
+Định hướng
 
-### 🌱 Currently Learning
+Mình đang hướng đến vị trí Data Analyst — dùng nền tảng về CSDL và lập trình sẵn có, kết hợp với SQL, Python và các công cụ trực quan hóa để biến dữ liệu thành thông tin hữu ích.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-4B8BBE?style=flat&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🛠️ Technologies
-
-**Data & Analytics**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35" height="35" alt="Jupyter"/>
-</p>
-
-**Database & Development**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35" height="35" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="35" height="35" alt=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
-</p>
-
----
-
-### 📌 Selected Projects
-
-| Project                                                                                    | Description                                                                                                                                               |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Restudy – Used Books & Tutor Platform](https://github.com/TuyetAnh0101/Website)           | Web application for buying and renting used books, with tutor search and rental features. Built with ASP.NET Core, Entity Framework Core, and SQL Server. |
-| [Equipment Management System](https://github.com/TuyetAnh0101/Equipment-Management-System) | Equipment management system focusing on database design and business logic.                                                                               |
-| [CuaHang](https://github.com/TuyetAnh0101/CuaHang)                                         | Store management system using Oracle and PL/SQL.                                                                                                          |
-| [GA-TaSRM](https://github.com/TuyetAnh0101/GA-TaSRM)                                       | Data mining project applying Genetic Algorithm to sequential rule mining.                                                                                 |
-| [Blockchain Library DApp](https://github.com/TuyetAnh0101/Blockchain-Library-DApp)         | A small DApp developed to explore Blockchain and Web3.                                                                                                    |
-
-<p align="center">
-  <a href="https://github.com/TuyetAnh0101?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎯 Career Direction
-
-**Aspiring Data Analyst**
-
-Interested in turning data into meaningful insights through SQL, Python, visualization, and statistical analysis, while leveraging a strong foundation in databases and software development.
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/TuyetAnh0101">
-    <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anhngo01012005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anhngo01012005%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Liên hệ
+GitHub: TuyetAnh0101
+Email: anhngo01012005@gmail.com
