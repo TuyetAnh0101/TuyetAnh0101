@@ -8,9 +8,6 @@
   <a href="https://github.com/TuyetAnh0101">
     <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:anhngo01012005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
@@ -92,10 +89,6 @@ Interested in turning data into meaningful insights through **SQL, Python, visua
 <p align="left">
   <a href="https://github.com/TuyetAnh0101">
     <img src="https://img.shields.io/badge/GitHub-TuyetAnh0101-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:anhngo01012005@gmail.com">
     <img src="https://img.shields.io/badge/Email-anhngo01012005%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
